@@ -12,5 +12,11 @@ public class Main {
         var2.setName("Jujutsu Kaisen");
         var2.setCreator("Gege Akutami");
         System.out.println(var1.getName());
+        System.out.println(var1.getCreator());
+        System.out.println(var1);
+        System.out.println("*********");
+        System.out.println(var2.getName());
+        System.out.println(var2.getCreator());
+        System.out.println(var2);
     }
 }
